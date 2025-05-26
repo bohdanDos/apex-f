@@ -4,6 +4,14 @@
   "description": "Apex formatter that formats code when you pay respect (Cmd+Option+F)",
   "version": "0.0.1",
   "publisher": "bohdanDos",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bohdanDos/apex-f"
+  },
+  "bugs": {
+    "url": "https://github.com/bohdanDos/apex-f/issues"
+  },
+  "homepage": "https://github.com/bohdanDos/apex-f#readme",
   "engines": {
     "vscode": "^1.100.0"
   },
