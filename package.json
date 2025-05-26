@@ -2,7 +2,7 @@
   "name": "apex-f",
   "displayName": "apex-f",
   "description": "Apex formatter that formats code when you pay respect (Cmd+Option+F)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "images/icon.png",
   "publisher": "bohdanDos",
   "repository": {
